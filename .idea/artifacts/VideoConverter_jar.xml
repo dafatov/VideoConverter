@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VideoConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VideoConverter_jar</output-path>
+    <root id="archive" name="VideoConverter.jar">
+      <element id="module-output" name="VideoConverter" />
+    </root>
+  </artifact>
+</component>
